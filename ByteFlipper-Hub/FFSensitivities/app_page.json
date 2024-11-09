@@ -3,6 +3,7 @@
     "title": "FF Sensitivities",
     "short_description": "Bla bla bla",
     "full_description": "ru.md",
+    "app_icon": "ic_launcher-playstore.png",
     "screenshots": ["1.png", "2.png"],
     "video": ""
   },
@@ -10,6 +11,7 @@
     "title": "FF Sensitivities",
     "short_description": "Bla bla bla",
     "full_description": "en.md",
+    "app_icon": "ic_launcher-playstore.png",
     "screenshots": ["1.png", "2.png"],
     "video": ""
   }
