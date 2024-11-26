@@ -108,6 +108,21 @@
         },
         {
             "manufacturer": "Oppo",
+            "name": "Reno 7",
+            "settings_source_url": "",
+            "dpi": 0,
+            "fire_button": 54,
+            "sensitivities": {
+                "review": 101,
+                "collimator": 115,
+                "x2_scope": 115,
+                "x4_scope": 100,
+                "sniper_scope": 55,
+                "free_review": 55
+            }
+        },
+        {
+            "manufacturer": "Oppo",
             "name": "A54",
             "settings_source_url": "",
             "dpi": 818,

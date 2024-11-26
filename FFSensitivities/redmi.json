@@ -130,6 +130,22 @@
             }
         },
         {
+            "__id__": "yRn8bVAezx2eOn6loLVm",
+            "manufacturer": "Redmi",
+            "name": "Note 11",
+            "settings_source_url": "",
+            "dpi": 0,
+            "fire_button": 51,
+            "sensitivities": {
+                "review": 191,
+                "collimator": 170,
+                "x2_scope": 172,
+                "x4_scope": 165,
+                "sniper_scope": 144,
+                "free_review": 200
+            }
+        },
+        {
             "__id__": "yRn8bVAezx2eOn6IvLVm",
             "manufacturer": "Redmi",
             "name": "Note 11",
@@ -607,6 +623,22 @@
                 "x4_scope": 93,
                 "sniper_scope": 26,
                 "free_review": 32
+            }
+        },
+        {
+            "__id__": "wv5mMubgM45vyZRh6OF6",
+            "manufacturer": "Redmi",
+            "name": "2A+",
+            "settings_source_url": "",
+            "dpi": 0,
+            "fire_button": 44,
+            "sensitivities": {
+                "review": 125,
+                "collimator": 170,
+                "x2_scope": 180,
+                "x4_scope": 160,
+                "sniper_scope": 100,
+                "free_review": 105
             }
         }
     ]

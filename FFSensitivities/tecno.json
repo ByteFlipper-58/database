@@ -61,6 +61,51 @@
           "free_review": 100
         }
       },
+        {
+        "manufacturer": "Tecno",
+        "name": "Pova 6 Neo",
+        "settings_source_url": "",
+        "dpi": 480,
+        "fire_button": 54,
+        "sensitivities": {
+          "review": 185,
+          "collimator": 170,
+          "x2_scope": 190,
+          "x4_scope": 190,
+          "sniper_scope": 156,
+          "free_review": 200
+        }
+        },
+      {
+        "manufacturer": "Tecno",
+        "name": "Pova 5 Pro",
+        "settings_source_url": "",
+        "dpi": 390,
+        "fire_button": 54,
+        "sensitivities": {
+          "review": 173,
+          "collimator": 81,
+          "x2_scope": 144,
+          "x4_scope": 144,
+          "sniper_scope": 120,
+          "free_review": 200
+        }
+      },
+      {
+        "manufacturer": "Tecno",
+        "name": "Pova 5",
+        "settings_source_url": "",
+        "dpi": 392,
+        "fire_button": 40,
+        "sensitivities": {
+          "review": 200,
+          "collimator": 184,
+          "x2_scope": 175,
+          "x4_scope": 181,
+          "sniper_scope": 149,
+          "free_review": 200
+        }
+      },
       {
         "manufacturer": "Tecno",
         "name": "Pova Neo 2",

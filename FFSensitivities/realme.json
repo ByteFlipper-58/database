@@ -141,6 +141,22 @@
             "free_review": 54
         }
     },
+        {
+            "__id__": "aHJ3Kdr1FbcJ5bQAU6vh",
+            "manufacturer": "Realme",
+            "name": "3i",
+            "settings_source_url": "",
+            "dpi": 528,
+            "fire_button": 39,
+            "sensitivities": {
+                "review": 190,
+                "collimator": 191,
+                "x2_scope": 185,
+                "x4_scope": 182,
+                "sniper_scope": 173,
+                "free_review": 139
+            }
+        },
     {
         "__id__": "aRI5RORQ4mYjrXLDiOGL",
         "manufacturer": "Realme",
