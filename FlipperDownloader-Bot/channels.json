@@ -1,0 +1,13 @@
+{
+    "enabled": true,
+    "channels": [
+        {
+            "id": "-1002053875917",
+            "name": "ByteFlipper",
+            "url": "https://t.me/byteflipper"
+        }
+    ],
+    "message": "📢 Подпишись на каналы, чтобы использовать бота:",
+    "check_button": "✅ Я подписался",
+    "success_message": "✅ Отлично! Теперь отправь ссылку на видео."
+}
