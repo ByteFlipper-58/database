@@ -7,13 +7,13 @@
       "target_language": "Russian",
       "attach_banner": true,
       "buttons": [
-    [
-      {
-        "text": "Читать статью",
-        "url": "{article_url}"
-      }
-    ]
-  ]
+        [
+          { "text": "Читать статью", "url": "{article_url}" }
+        ],
+        [
+          { "text": "SectLauncher", "url": "https://sectlauncher.byteflipper.com/" }
+        ]
+      ]
     }
   ]
 }
