@@ -1,0 +1,11 @@
+{
+  "telegram": [
+    {
+      "chat_id": -1003849961525,
+      "enabled": true,
+      "translate": true,
+      "target_language": "Russian",
+      "attach_banner": true
+    }
+  ]
+}
