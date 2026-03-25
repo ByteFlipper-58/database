@@ -5,7 +5,15 @@
       "enabled": true,
       "translate": true,
       "target_language": "Russian",
-      "attach_banner": true
+      "attach_banner": true,
+      "buttons": [
+    [
+      {
+        "text": "Читать статью",
+        "url": "{article_url}"
+      }
+    ]
+  ]
     }
   ]
 }
