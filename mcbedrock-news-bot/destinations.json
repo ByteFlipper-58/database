@@ -6,6 +6,7 @@
       "translate": true,
       "target_language": "Russian",
       "attach_banner": true,
+      "include_details_link_in_text": false,
       "buttons": [
         [
           { "text": "Читать статью", "url": "{article_url}" }
